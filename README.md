@@ -1,5 +1,8 @@
 [![MasterHead](https://www.gravity-testing.com/wp-content/uploads/2023/10/BLOG-3.png)](https://github.com/sauraz)
-<h1 align="center">👋 Hi, I'm Saurav 🇺🇸 🇮🇳</h1>
+<h1 align="center">
+  👋 Hi, I'm Saurav
+  <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons@main/flags/1x1/us.svg" alt="US Flag" width="24" style="vertical-align:middle; margin-left:8px;">
+</h1>
 <h3 align="center">🚀 🌐 Shaping the Future of Technology with Inspired Software Development</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
